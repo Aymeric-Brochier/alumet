@@ -10,7 +10,7 @@ The Grace-Hopper plugin creates Alumet **sources** that collect measurements of 
 
 ## Metrics
 
-Here are the metrics collected by the plugin source.
+Here is the metric collected by the plugin source.
 
 |Name|Type|Unit|Description|Attributes|More information|
 |----|----|----|-----------|----------|-----------------|
@@ -46,9 +46,9 @@ root_path = "/sys/class/hwmon"
 
 ### Source
 
-- All informations in this README comes from:
-  - [power-thermals](https://docs.nvidia.com/grace-perf-tuning-guide/power-thermals.html#power-telemetry)
-  - [grace patch config guide](https://docs.nvidia.com/grace-patch-config-guide.pdf)
+All informations in this README comes from:
+- [power-thermals](https://docs.nvidia.com/grace-perf-tuning-guide/power-thermals.html#power-telemetry)
+- [grace patch config guide](https://docs.nvidia.com/grace-patch-config-guide.pdf)
 - Tested chip: The Grace Hopper Superchip
 
 ### hwmon-sysfs
